@@ -1,2 +1,4 @@
-# gruposkill
-Seleção Grupo Skill
+# todo
+ReactJS 
+NodeJD
+MongoDB
